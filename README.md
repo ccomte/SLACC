@@ -1,2 +1,1 @@
-# slacc
-Seize the Longest Available Compatible Chip
+# Seize the Longest Available Compatible Chip (SLACC)
