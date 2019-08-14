@@ -14,7 +14,7 @@ The following files predict the performance of the dynamic load balancing:
 The performance metrics obtained under the static load balancing policies are computed in the Jupyter Notebook `static-bipartite-exact.ipynb`.
 
 We also use the following files:
-- `utils.h`: Libraries and random sampling functions used in the the C programs.
+- `utils.h`: Libraries and random sampling functions used in the C programs.
 - `script.sh`: An example script that builds and runs the above-mentioned C programs. The two scenarios are those described in the paper. The results are saved in the folder *data*.
 - `plot.ipynb`: Plot the obtained results.
 
